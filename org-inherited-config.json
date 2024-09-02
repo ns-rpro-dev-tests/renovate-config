@@ -1,4 +1,5 @@
 {
   "dependencyDashboard": true,
-  "rebaseWhen": "never"
+  "dependencyDashboardApproval": true,
+  "rebaseWhen": "never"  
 }
