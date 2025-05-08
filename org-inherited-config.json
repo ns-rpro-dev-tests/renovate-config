@@ -1,4 +1,8 @@
 {
   "dependencyDashboard": true,
   "rebaseWhen": "never"  
+  "extends": [
+    ":configMigration",
+    ":pinDevDependencies"
+  ]
 }
