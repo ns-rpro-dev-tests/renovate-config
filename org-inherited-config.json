@@ -1,6 +1,6 @@
 {
   "dependencyDashboard": true,
-  "rebaseWhen": "never"  
+  "rebaseWhen": "never",  
   "extends": [
     ":configMigration",
     ":pinDevDependencies"
